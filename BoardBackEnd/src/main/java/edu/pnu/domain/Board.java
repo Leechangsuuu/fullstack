@@ -33,7 +33,7 @@ public class Board {
 	private String title;
 	@Column(nullable=false)
 	private String content;
-	private String writer;
+//	private String writer;
 	@Temporal(TemporalType.TIMESTAMP)
 	@Builder.Default
 	@Column(columnDefinition="timestamp default current_timestamp")

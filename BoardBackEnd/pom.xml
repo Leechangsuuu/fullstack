@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>edu.pnu</groupId>
-	<artifactId>BoardBackEnd</artifactId>
+	<artifactId>BoardBackEnd1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>BoardBackEnd</name>
+	<name>BoardBackEnd1</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
